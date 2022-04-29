@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ToolbarPopUpWindows\AddWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserAccountWindows\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserAccountWindows\ManageAccountWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserAccountWindows\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolbarPopUpWindows\DeleteWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolbarPopUpWindows\EditWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
